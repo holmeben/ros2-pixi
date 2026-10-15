@@ -4,7 +4,7 @@ This repository contains the configuration required to use ROS2 within a Pixi en
 
 This was developed on macOS as an alternative to running ROS2 via Docker to allow hardware acceleration to be used in simulation (macOS does not support hardware acceleration in containers). It may also work on Linux.
 
-This was used during COM2009/3009 at the University of Sheffield.
+This was used during COM2009/3009 Robotics at the University of Sheffield.
 
 ## Setup
 First install [Pixi](https://pixi.prefix.dev/latest/installation).
